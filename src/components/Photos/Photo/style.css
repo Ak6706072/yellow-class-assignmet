@@ -1,6 +1,6 @@
 .photo {
   margin: 5px;
-  width: 30%;
+  width: 20%;
   cursor: pointer;
 }
 .photo > img {
